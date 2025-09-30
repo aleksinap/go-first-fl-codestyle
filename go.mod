@@ -1,3 +1,3 @@
-module github.com/Yandex-Practicum/go-first-fl-codestyle
+module aleksinap/go-first-fl-codestyle.git
 
-go 1.20
+go 1.24.3
